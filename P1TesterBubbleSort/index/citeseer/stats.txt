@@ -1,0 +1,6 @@
+Indexing Test Result: ./index/citeseer:
+	Total Files Indexed: 12099
+	Memory Used: 295.6836 MBs
+	Time Used: 83.35 secs
+	Index Size: 36.21929168701172 MBs
+	Alright. Good Bye.
